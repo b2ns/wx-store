@@ -1,0 +1,28 @@
+{
+  "name": "wx-store",
+  "version": "1.0.0",
+  "description": "参考vuex为小程序增加状态管理并提供页面间通信接口",
+  "main": "store.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b2ns/wx-store.git"
+  },
+  "keywords": [
+    "wx",
+    "小程序",
+    "store",
+    "onMessage",
+    "postMessage",
+    "状态管理",
+    "页面通信"
+  ],
+  "author": "b2ns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b2ns/wx-store/issues"
+  },
+  "homepage": "https://github.com/b2ns/wx-store#readme"
+}
